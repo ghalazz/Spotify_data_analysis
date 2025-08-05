@@ -53,5 +53,5 @@ The goal is to explore musical attributes like popularity, danceability, energy,
 
 ---
 ## 👤 Author
-Abhidan Ghale 
-This project is part of my portfolio for learning and showcasing EDA skills.
+* Abhidan Ghale 
+* This project is part of my portfolio for learning and showcasing EDA skills.
